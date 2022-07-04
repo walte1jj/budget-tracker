@@ -45,7 +45,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#6666ff",
-    "orientation": "portrait",
     "start_url": ".",
     "display": "standalone"
   }
